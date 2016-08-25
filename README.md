@@ -11,9 +11,9 @@ _Inspired by [thoughtbot/til](https://github.com/thoughtbot/til), [jbranchaud/ti
 
 ### Bash
 
-- [Check Connectivity To A Host](bash/check-connectivity-to-a-host.md)
-- [Sleep For A Random Interval](bash/sleep-for-a-random-interval.md)
-- [Lowercase A String](bash/lowercase-a-string.md)
+- [Check connectivity to a host](bash/check-connectivity-to-a-host.md)
+- [Sleep for a random interval](bash/sleep-for-a-random-interval.md)
+- [Lowercase a string](bash/lowercase-a-string.md)
 
 ## License
 

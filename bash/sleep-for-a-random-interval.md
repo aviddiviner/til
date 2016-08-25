@@ -1,4 +1,4 @@
-# Sleep For A Random Interval
+# Sleep for a random interval
 
 ```bash
 # Sleep for 1-10 seconds

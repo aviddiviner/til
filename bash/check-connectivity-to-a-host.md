@@ -1,4 +1,4 @@
-# Check Connectivity To A Host
+# Check connectivity to a host
 
 Normally, to check if you can connect to a given host/port, you'd use something like `telnet`.
 
