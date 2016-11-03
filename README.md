@@ -16,6 +16,10 @@ _Inspired by [thoughtbot/til](https://github.com/thoughtbot/til), [jbranchaud/ti
 - [Sleep for a random interval](bash/sleep-for-a-random-interval.md)
 - [Lowercase a string](bash/lowercase-a-string.md)
 
+### Python
+
+- [Step-by-step debugging on the console](python/step-by-step-debugging-on-the-console.md)
+
 ## License
 
 [MIT](LICENSE)
