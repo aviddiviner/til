@@ -6,6 +6,7 @@
 
 #### Dev-ops
 - [Check connectivity to a host](devops/check-connectivity-to-a-host.md)
+- [Fingerprint SSH keys](devops/fingerprint-ssh-keys.md)
 - [Notify users logged in to a machine](devops/notify-users-logged-in-to-a-machine.md)
 - [Show open ports](devops/show-open-ports.md)
 
