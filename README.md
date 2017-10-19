@@ -11,6 +11,7 @@
 - [Notify users logged in to a machine](devops/notify-users-logged-in-to-a-machine.md)
 - [Show open ports](devops/show-open-ports.md)
 - [Write to STDIN of a background process](devops/write-to-stdin-of-a-background-process.md)
+- [How to set up a local test domain with `dnsmasq`](devops/how-to-set-up-a-local-test-domain-with-dnsmasq.md)
 
 #### Python
 - [Step-by-step debugging on the console](python/step-by-step-debugging-on-the-console.md)
