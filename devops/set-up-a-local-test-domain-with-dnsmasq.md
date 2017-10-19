@@ -1,4 +1,4 @@
-# How to set up a local test domain with `dnsmasq`
+# Set up a local test domain with `dnsmasq`
 
 ## Use the `.test` TLD
 
