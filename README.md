@@ -12,6 +12,7 @@
 - [Show open ports](devops/show-open-ports.md)
 - [Write to STDIN of a background process](devops/write-to-stdin-of-a-background-process.md)
 - [Set up a local test domain with `dnsmasq`](devops/set-up-a-local-test-domain-with-dnsmasq.md)
+- [Set up password-less `sudo`](devops/set-up-password-less-sudo.md)
 
 #### Python
 - [Step-by-step debugging on the console](python/step-by-step-debugging-on-the-console.md)
