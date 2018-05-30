@@ -6,6 +6,7 @@
 
 #### Dev-ops
 - [Check connectivity to a host](devops/check-connectivity-to-a-host.md)
+- [Common `apt` package names](devops/common-apt-package-names.md)
 - [Fingerprint SSH keys](devops/fingerprint-ssh-keys.md)
 - [`ifconfig` and `netstat` are deprecated](devops/ifconfig-and-netstat-are-deprecated.md)
 - [Notify users logged in to a machine](devops/notify-users-logged-in-to-a-machine.md)
