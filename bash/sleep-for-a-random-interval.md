@@ -1,6 +1,7 @@
 # Sleep for a random interval
 
+Sleep for 1-10 seconds:
+
 ```bash
-# Sleep for 1-10 seconds
 sleep `expr $RANDOM \% 10 + 1`
 ```
