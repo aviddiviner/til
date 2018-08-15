@@ -3,6 +3,7 @@
 #### Bash
 - [Lowercase a string](bash/lowercase-a-string.md)
 - [Sleep for a random interval](bash/sleep-for-a-random-interval.md)
+- [Trim lines off a large file](bash/trim-lines-off-a-large-file.md)
 
 #### Dev-ops
 - [Check connectivity to a host](devops/check-connectivity-to-a-host.md)
