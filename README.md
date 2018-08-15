@@ -3,7 +3,7 @@
 #### Bash
 - [Lowercase a string](bash/lowercase-a-string.md)
 - [Sleep for a random interval](bash/sleep-for-a-random-interval.md)
-- [Check if files are open](devops/check-if-files-are-open.md)
+- [Check if files are open](bash/check-if-files-are-open.md)
 - [Trim lines off a large file](bash/trim-lines-off-a-large-file.md)
 
 #### Dev-ops
