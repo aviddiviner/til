@@ -20,3 +20,6 @@
 
 #### Python
 - [Step-by-step debugging on the console](python/step-by-step-debugging-on-the-console.md)
+
+#### SQL
+- [Check database size in Postgres](sql/check-database-size-in-postgres.md)
